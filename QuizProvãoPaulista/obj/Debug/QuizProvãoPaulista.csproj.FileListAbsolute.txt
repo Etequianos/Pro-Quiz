@@ -1,0 +1,132 @@
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csprojResolveAssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.Cache
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\willi\OneDrive\Documentos\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Form1.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csprojResolveAssemblyReference.cache
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Form1.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.Cache
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\20252930048\Downloads\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csprojResolveAssemblyReference.cache
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.Cache
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\20252930048\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csprojResolveAssemblyReference.cache
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.Cache
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\willi\Downloads\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csprojResolveAssemblyReference.cache
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.Cache
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\willi\Downloads\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2) (2)\ProjetoQuiz (3) (2) (2)\ProjetoQuiz (2) (2)\ProjetoQuiz (2)\ProjetoQuiz\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe.config
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Properties.Resources.resources
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\pedro\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.AssemblyReference.cache
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe.config
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Properties.Resources.resources
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.cache
+C:\Users\20252930048\Downloads\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.CoreCompileInputs.cache
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.AssemblyReference.cache
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Parabens.resources
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Properties.Resources.resources
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.cache
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.CoreCompileInputs.cache
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe.config
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\willi\Videos\QuizProvãoPaulista\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Configurações.resources
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Login.resources
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Cadastrar.resources
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.MainForm.resources
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Parabens.resources
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Properties.Resources.resources
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Quiz.resources
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.Splash.resources
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.csproj.GenerateResource.Cache
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.exe
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\obj\Debug\QuizProvãoPaulista.pdb
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe.config
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.exe
+C:\Users\pedro\Desktop\QuizProvãoPaulista\QuizProvãoPaulista\bin\Debug\QuizProvãoPaulista.pdb
